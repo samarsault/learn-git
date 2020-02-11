@@ -1,3 +1,7 @@
 This is the first file
 This has some text
-and here is a typo which will be fixed
+and here is a typo which will be fixd
+
+I'm adding some extra text here.
+
+
