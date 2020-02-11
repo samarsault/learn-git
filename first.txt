@@ -1,5 +1,9 @@
 This is the first file
 This has some text
+<<<<<<< HEAD
 and here is a typo which will be fixd
 
 I'm adding some extra text here.
+=======
+and here is a typo which will be fixed
+>>>>>>> master
